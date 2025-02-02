@@ -30,4 +30,4 @@ def calculate_change(item_price, amount_paid):
     # subtract the multiple from the change owed
     pprint.pp(denominations)
 
-calculate_change()
+calculate_change(15.99, 20)
