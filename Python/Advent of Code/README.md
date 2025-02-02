@@ -1,2 +1,1 @@
-# Advent of Code
-Check out Advent of Code [here](https://adventofcode.com/)
+# [Advent of Code](https://adventofcode.com/)
